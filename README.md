@@ -1,7 +1,7 @@
 <h1 align="center">Let's Drink!</h1>
 
 <p align="center">
-<img alt="Preview" width="660" alt="preview" src="https://github.com/bcebollada/LetsDrinkMedia/blob/main/MainGif.gif">
+<img alt="Preview" width="660" alt="preview" src="https://github.com/VFS-VRAR/VAR05-LetsDrink-FinalProject/blob/main/MainGif.gif">
 <p align="center">
 
 ## Summary
@@ -80,7 +80,7 @@ The project Goal is to allow people who own a VR headset interact and have fun w
 
 > Example Video
 
-![](https://github.com/bcebollada/LetsDrinkMedia/blob/main/LetsDrinkMain.png)
+![](https://github.com/VFS-VRAR/VAR05-LetsDrink-FinalProject/blob/main/LetsDrinkMain.png)
 
 ## Roadmap / Beyond
 
