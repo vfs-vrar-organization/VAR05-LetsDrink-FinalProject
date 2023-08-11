@@ -8,7 +8,7 @@
 
 Let's Drink is a series of cross-platform mini-party-games where one person using a VR headeset will play against up to 3 players using their mobile phones. Who loses, drinks!
 
-## Project Aim / Goal / Pillars
+## Project Goal
 
 The project Goal is to allow people who own a VR headset interact and have fun with friend who don't own one. Casual mini-games get more popular everyday and XR industry still lacks in these.
 
